@@ -1,0 +1,8 @@
+body, html{
+    font-family: 'Droid Serif', serif;
+	font-size: 15px;
+    font-weight: normal;
+    line-height: 26px;
+    height: 100%;
+    background-color: gainsboro;
+}
